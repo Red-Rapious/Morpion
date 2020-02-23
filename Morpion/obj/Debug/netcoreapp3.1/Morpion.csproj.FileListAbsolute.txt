@@ -1,0 +1,11 @@
+C:\Users\Antoine Groudiev\source\repos\Morpion\bin\Debug\netcoreapp3.1\Morpion.exe
+C:\Users\Antoine Groudiev\source\repos\Morpion\bin\Debug\netcoreapp3.1\Morpion.deps.json
+C:\Users\Antoine Groudiev\source\repos\Morpion\bin\Debug\netcoreapp3.1\Morpion.runtimeconfig.json
+C:\Users\Antoine Groudiev\source\repos\Morpion\bin\Debug\netcoreapp3.1\Morpion.runtimeconfig.dev.json
+C:\Users\Antoine Groudiev\source\repos\Morpion\bin\Debug\netcoreapp3.1\Morpion.dll
+C:\Users\Antoine Groudiev\source\repos\Morpion\bin\Debug\netcoreapp3.1\Morpion.pdb
+C:\Users\Antoine Groudiev\source\repos\Morpion\obj\Debug\netcoreapp3.1\Morpion.csprojAssemblyReference.cache
+C:\Users\Antoine Groudiev\source\repos\Morpion\obj\Debug\netcoreapp3.1\Morpion.AssemblyInfoInputs.cache
+C:\Users\Antoine Groudiev\source\repos\Morpion\obj\Debug\netcoreapp3.1\Morpion.AssemblyInfo.cs
+C:\Users\Antoine Groudiev\source\repos\Morpion\obj\Debug\netcoreapp3.1\Morpion.dll
+C:\Users\Antoine Groudiev\source\repos\Morpion\obj\Debug\netcoreapp3.1\Morpion.pdb
